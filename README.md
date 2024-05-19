@@ -1,3 +1,9 @@
+This is a Chinese version of the Book _Efficient Python Tricks and Tools for Data Scientists_. 
+All rights reserved to the original author. I have no intention to claim any contribution except the translation work!
+
+THE ORIGINAL README FILE CONTENT IS BELOW THIS LINE!
+===========================================================================================================
+
 [<img src="img/Social media_facebook.jpg">](https://mathdatasimplified.com/)
 
 <div align="center">
