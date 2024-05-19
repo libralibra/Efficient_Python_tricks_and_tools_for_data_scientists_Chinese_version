@@ -1,4 +1,4 @@
-This is the Chinese version of the book _Efficient Python Tricks and Tools for Data Scientists_.
+This is the Chinese version of the book ***Efficient Python Tricks and Tools for Data Scientists***.
 All rights reserved by the original author. I have no intention of claiming any contribution except for the translation work.
 
 
